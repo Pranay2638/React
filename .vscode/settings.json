@@ -1,0 +1,12 @@
+{
+    
+        "editor.quickSuggestions": {
+          "strings": true  // Enables suggestions for string literals like class names
+        },
+        "tailwindCSS.includeLanguages": {
+          "plaintext": "html",  // Enable IntelliSense in plain HTML files
+          "javascript": "javascriptreact",  // Enable IntelliSense in React (JSX)
+          "typescript": "typescriptreact"   // Enable IntelliSense in React (TSX)
+        }
+      
+}
